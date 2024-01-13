@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Konda</h1>
 <h3 align="center">Graduate student at Arizona State University | Ex Software Engineer at DBS Bank</h3>
 
-- 🔭 I’m currently open to **software engineer jobs**
+- 🔭 I’m currently open to **Software & Data Engineer jobs**
 
 - 🌱 I’m currently learning **Data and Web concepts**
 
