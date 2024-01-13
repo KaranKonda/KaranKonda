@@ -1,3 +1,4 @@
+[![MasterHead](https://img.freepik.com/premium-vector/software-developer-concept-with-big-words-people-surrounded-by-related-icon-spreading-with-modern-blue-color-style_25156-1285.jpg?w=1060)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Karan Konda</h1>
 <h3 align="center">Graduate student at Arizona State University | Ex Software Engineer at DBS Bank</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">  
